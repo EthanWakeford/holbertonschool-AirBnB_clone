@@ -1,9 +1,11 @@
-footer {position: relative;
+footer {
+    position: relative;
     bottom: 0;
     background-color: white;
     height: 60px;
     width: 100%;
-    border-top: 1px solid #CCCCCC;}
+    border-top: 1px solid #CCCCCC;
+}
 
 footer div {text-align: center;
     margin: 23px;}
